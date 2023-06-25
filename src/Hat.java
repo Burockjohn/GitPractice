@@ -6,6 +6,8 @@ public class Hat {
 
         //2nd line
 
+        //3nd line
+
 
     }
 }
